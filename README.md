@@ -8,5 +8,8 @@ Instructions: http://www.vacommunity.org/VAST+Challenge+2017+MC3
 Answers can be found in the root directory provided in four separate folders.
 
 ## Authors 
-- Item 1 Maria Lentini
-- Item 2 Paul Stanton
+- Maria Lentini
+- Paul Stanton
+- Matt Williams
+- Brianna Montalvo
+- Brandon Paige
